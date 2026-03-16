@@ -1,0 +1,23 @@
+---
+import { getEntry } from 'astro:content';
+const contact = await getEntry('sections', 'contact');
+const { Content } = await contact.render();
+const address = contact.data.address;
+---
+
+<section id="contact">
+  <div class="container">
+    <h2>Contact Us</h2>
+    <Content />
+    {address && (
+      <div class="address-block">
+        <h3>Find Us</h3>
+        <address>
+          <span class="address-name">{address.name}</span>
+          <span>{address.street}</span>
+          <span>{address.postcode}</span>
+        </address>
+      </div>
+    )}
+  </div>
+</section>

@@ -1,0 +1,12 @@
+---
+import { getEntry } from 'astro:content';
+const policies = await getEntry('sections', 'policies');
+const { Content } = await policies.render();
+---
+
+<section id="policies">
+  <div class="container">
+    <h2>Policies</h2>
+    <Content />
+  </div>
+</section>

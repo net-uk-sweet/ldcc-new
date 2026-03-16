@@ -1,0 +1,36 @@
+---
+import { getEntry } from 'astro:content';
+const hero = await getEntry('sections', 'hero');
+const { Content } = await hero.render();
+---
+
+<section id="home" class="hero">
+  <div class="hero-overlay">
+    <div class="container">
+      <Content />
+    </div>
+  </div>
+</section>
+
+<style>
+  .hero {
+    background: url('https://images.unsplash.com/photo-1472745942893-4b9f730c7668?w=1920&q=80') center/cover no-repeat;
+    min-height: 100vh;
+    padding: 0;
+  }
+
+  .hero-overlay {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+
+  .hero :global(h1),
+  .hero :global(p) {
+    color: #fff;
+  }
+</style>

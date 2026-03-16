@@ -1,0 +1,12 @@
+---
+import { getEntry } from 'astro:content';
+const places = await getEntry('sections', 'places');
+const { Content } = await places.render();
+---
+
+<section id="places">
+  <div class="container">
+    <h2>Places We Paddle</h2>
+    <Content />
+  </div>
+</section>

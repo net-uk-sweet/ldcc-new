@@ -1,0 +1,24 @@
+---
+import { getEntry } from 'astro:content';
+const coaches = await getEntry('sections', 'coaches');
+const { Content } = await coaches.render();
+const people = coaches.data.people ?? [];
+---
+
+<section id="coaches">
+  <div class="container">
+    <h2>Our Coaches</h2>
+    <Content />
+    <div class="card-grid">
+      {people.map((person) => (
+        <div class="card">
+          <img src={`https://ui-avatars.com/api/?name=${encodeURIComponent(person.name)}&size=300&background=1f6f5c&color=fff`} alt={person.name} />
+          <div class="card-body">
+            <h3>{person.name}</h3>
+            <p class="card-role">{person.role}</p>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

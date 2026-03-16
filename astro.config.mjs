@@ -1,5 +1,6 @@
-import { defineConfig } from 'astro/config';
+import { defineConfig } from "astro/config";
 
 export default defineConfig({
-  site: 'https://ldcc.club',
+  site: "https://ldcc.club",
+  base: "/ldcc-new",
 });

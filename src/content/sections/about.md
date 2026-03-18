@@ -12,5 +12,3 @@ Run on an entirely voluntary basis, the club has over the years introduced the s
 In the summer months, April to October, we meet on Thursday evenings from 6.00pm at The 33rd Scout HQ on Halton Road.
 
 In the winter months, we meet at the club hut on Saturdays from 9.00am, and usually paddle nearby in the vicinity, subject to paddling conditions, or go further afield on a trip. We also have regular practice pool sessions.
-
-**To edit this section:** Open `src/content/sections/about.md` in any text editor and update the content.

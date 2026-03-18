@@ -41,4 +41,6 @@ We're always looking for enthusiastic volunteers to help with:
 - Equipment maintenance
 - Administration
 
-Interested in volunteering? [Contact us](#contact)!
+Interested in volunteering?
+
+<a href="mailto:info@ldcc.club" class="cta-button">Get in Touch</a>

@@ -6,6 +6,7 @@ order: 7
 ### Safety Policy
 
 Safety is our top priority. All members must:
+
 - Wear appropriate safety equipment
 - Follow coach instructions
 - Respect water conditions
@@ -21,6 +22,7 @@ LDCC is committed to providing a safe environment for all young members.
 ### Code of Conduct
 
 All members are expected to:
+
 - Treat others with respect
 - Care for club equipment
 - Follow club rules and guidelines
@@ -32,5 +34,3 @@ All members are expected to:
 We comply with GDPR regulations in handling member information.
 
 [Download Privacy Policy (PDF)](#)
-
-**To edit:** Update `src/content/sections/policies.md`

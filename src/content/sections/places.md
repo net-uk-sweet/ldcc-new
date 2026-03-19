@@ -21,6 +21,10 @@ Excellent short blast with plenty of playwaves, weirs and rapids. Runs at a vari
 
 A classic section with easy access. The narrow gorges are still fun even in low water. This is one of the rivers we progress onto after members have some moving water experience, it has a variety of features to suit novices and more experienced paddlers. (This river is more dependent on water levels)
 
-### Sea Kayaking
+### The Sea
 
 Seasonal trips to the coast for those seeking ocean adventures.
+
+### Carnforth Swimming Pool
+
+A sentence about our pool sessions

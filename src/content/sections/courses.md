@@ -23,10 +23,10 @@ The course includes use of club equipment, tuition to become proficient in the b
 
 ### Can I Book My Place Now?
 
-If you would like more information, get in touch!
-
-<a href="mailto:info@ldcc.club" class="cta-button">Get in Touch</a>
-
 As part of the induction evening we will explain how to sign up for the course and join the club.
 
 ​We also welcome new members who are already proficient paddlers.
+
+If you would like more information, get in touch!
+
+<a href="mailto:info@ldcc.club" class="cta-button">Get in Touch</a>

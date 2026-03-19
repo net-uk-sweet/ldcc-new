@@ -19,4 +19,4 @@ For all enquiries about beginner sessions or joining as a competent paddler or a
 
 Follow us for updates and photos:
 
-- Facebook: [Link]
+<a href="https://www.facebook.com/groups/759310445829328/" class="cta-button" target="_blank" rel="noopener">Join Us on Facebook</a>

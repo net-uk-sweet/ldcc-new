@@ -4,7 +4,7 @@ const hero = await getEntry('sections', 'hero');
 const { Content } = await hero.render();
 ---
 
-<section id="home" class="hero">
+<section id="home" class="hero" style={`background-image: url('${import.meta.env.BASE_URL}/images/hero.jpg')`}>
   <div class="hero-overlay">
     <div class="container">
       <Content />
@@ -14,7 +14,9 @@ const { Content } = await hero.render();
 
 <style>
   .hero {
-    background: url('https://images.unsplash.com/photo-1472745942893-4b9f730c7668?w=1920&q=80') center/cover no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     min-height: 100vh;
     padding: 0;
   }

@@ -10,6 +10,7 @@ const sectionsCollection = defineCollection({
         z.object({
           name: z.string(),
           role: z.string(),
+          img: z.string().optional(),
         }),
       )
       .optional(),

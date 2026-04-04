@@ -12,7 +12,9 @@ const people = volunteers.data.people ?? [];
     <div class="card-grid">
       {people.map((person) => (
         <div class="card">
-          <img src={`https://ui-avatars.com/api/?name=${encodeURIComponent(person.name)}&size=300&background=2e6f95&color=fff`} alt={person.name} />
+          {person.img ? 
+            <img src={`${import.meta.env.BASE_URL}/images/members/${person.img}`} alt={person.name} /> : 
+            <img src={`https://ui-avatars.com/api/?name=${encodeURIComponent(person.name)}&size=300&background=1f6f5c&color=fff`} alt={person.name} />} 
           <div class="card-body">
             <h3>{person.name}</h3>
             <p>{person.role}</p>

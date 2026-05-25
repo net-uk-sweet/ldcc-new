@@ -14,6 +14,9 @@ people:
   - name: "Thomas Barrat"
     img: "tom.png"
     role: "Paddling Support"
+  - name: "Dave Horn"
+    img: "dave-horn.jpg"
+    role: "Coach"
   - name: "Rachael Dyer"
     img: "rachael.png"
     role: "Coach"
@@ -37,13 +40,16 @@ people:
     role: "Committee"
   - name: "Julie Southworth"
     img: "julie-southworth.png"
-    role: "Committee"
+    role: "Paddling Support, Committee"
   - name: "Paul Jackson"
     img: "paul-jackson.png"
     role: "Committee"
   - name: "Chris Bowler"
     img: "chris-bowler.png"
-    role: "Committee"
+    role: "Equipment Officer, Paddling Support, Committee"
+  - name: "Susan Dewick"
+    img: "susan-dewick.png"
+    role: "Paddling Support / Committee"
 ---
 
 Our dedicated Coaches, Instructors and Leaders are mostly made up of members who started paddling through the club and wanted to become more involved and give something back.

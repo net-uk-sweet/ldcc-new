@@ -1,0 +1,23 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Page Not Found - LDCC">
+  <section class="error-page">
+    <div class="container">
+      <h1>404</h1>
+      <p>Page not found. Let's get you back on the water.</p>
+      <a href={`${import.meta.env.BASE_URL}/`} class="cta-button">Back to Home</a>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  .error-page {
+    text-align: center;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+</style>

@@ -26,10 +26,9 @@ Content files are located in `src/content/sections/`:
 
 - `hero.md` - Home/splash section
 - `about.md` - About Us section
-- `coaches.md` - Our Coaches
-- `courses.md` - Our Courses
 - `volunteers.md` - Our Volunteers
 - `places.md` - Places We Paddle
+- `courses.md` - Our Courses
 - `policies.md` - Policies
 - `contact.md` - Contact Us
 

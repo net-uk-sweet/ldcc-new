@@ -71,6 +71,8 @@ ul {
 
 .logo img {
   display: block;
+  height: 50px;
+  width: auto;
 }
 
 .menu-toggle {

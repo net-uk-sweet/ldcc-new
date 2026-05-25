@@ -3,7 +3,7 @@ title: "Places We Paddle"
 order: 6
 ---
 
-Below are some of the rivers that we paddle throughout the year. We are based at 33rd Sea Scout Hut on the River Lune; this is our base location throughout the summer on a Thursday evening. We paddle the other rivers during the winter season.
+Below are some of the locations that we paddle throughout the year. We are based at 33rd Sea Scout Hut on the River Lune; this is our base location throughout the summer on a Thursday evening. We paddle the other rivers during the winter season.
 
 ### River Lune
 
@@ -27,4 +27,4 @@ Seasonal trips to the coast for those seeking ocean adventures.
 
 ### Carnforth Swimming Pool
 
-A sentence about our pool sessions
+We rent Carnforth swimming pool which is a great place for practicing capsizing for beginners and practicing rolling and rescues for people with more experience.

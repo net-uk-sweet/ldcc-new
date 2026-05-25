@@ -3,30 +3,26 @@ title: "Our Courses"
 order: 4
 ---
 
-We offer a range of courses for all skill levels, from complete beginners to advanced paddlers.
+We offer courses to beginners and help our members to develop paddling skills.
 
-### When does the course start
+Our courses include use of club equipment, tuition to become proficient in the basics of kayaking. We also arrange sessions at Carnforth Swimming pool to help you learn to capsize, exit your boat safely and gain confidence on the water.
 
-We are holding our induction evening on the 24th April 2025, 6pm at our base: 33 Sea Scouts Hut, Halton Rd, Lancaster, LA1 2EG. ​
+### When Are Our Courses
 
-At the induction evening we will explain our 6 week beginners' course which runs on Thursday evenings at 6pm.
+We usually arrange beginners courses in the spring starting from late March or early April.
 
-### How Much Does It Cost?
+### How Much Does It Cost and Can I Book a Place?
 
-Our beginners courses are £50 for both adults and children. You would also need to join as a member. Membership prices are:
+Please contact us for details about courses and costs.  
+
+### Can I Join as a Member?
+
+You can join as a beginner after completing one of our courses. If you're an experienced paddler please get in touch to discuss coming down to one of our club nights. 
+
+Our membership prices are:
 
 - £40 for adults
 - £30 for children (under 18s)
 - £100 for families
-
-The course includes use of club equipment, tuition to become proficient in the basics of kayaking, and a session at Carnforth Swimming pool to help you learn to capsize, exit your boat safely and gain confidence on the water.
-
-### Can I Book My Place Now?
-
-As part of the induction evening we will explain how to sign up for the course and join the club.
-
-​We also welcome new members who are already proficient paddlers.
-
-If you would like more information, get in touch!
 
 <a href="mailto:info@ldcc.club" class="cta-button">Get in Touch</a>

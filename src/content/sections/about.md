@@ -7,7 +7,7 @@ Lancaster and District Canoe Club (LDCC) was founded in 1984 by a small group of
 
 Run on an entirely voluntary basis, the club has over the years introduced the sport to many local people, several of which are now fully qualified instructors!
 
-### Our Mission
+### When We Paddle
 
 In the summer months, April to October, we meet on Thursday evenings from 6.00pm at The 33rd Scout HQ on Halton Road.
 

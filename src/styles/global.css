@@ -69,6 +69,15 @@ ul {
   align-items: center;
 }
 
+.nav-facebook {
+  display: flex;
+  align-items: center;
+}
+
+.nav-facebook:hover {
+  color: #1877f2;
+}
+
 .logo img {
   display: block;
   height: 50px;
@@ -238,8 +247,6 @@ address {
 .cta-button:hover {
   background: var(--highlight);
 }
-
-
 
 @media (max-width: 1024px) {
   .card-grid {

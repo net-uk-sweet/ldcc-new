@@ -35,7 +35,7 @@ people:
   - name: "Miles Hester"
     img: "miles-hester.png"
     role: "Instructor / Leader, Youth Rep, Committee"
-  - name: "Dean Spender"
+  - name: "Dean Spencer"
     img: "dean.png"
     role: "Committee"
   - name: "Julie Southworth"

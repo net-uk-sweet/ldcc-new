@@ -69,6 +69,10 @@ ul {
   align-items: center;
 }
 
+.nav-facebook svg {
+  display: block;
+}
+
 .nav-facebook {
   display: flex;
   align-items: center;
@@ -104,8 +108,11 @@ ul {
 
 .nav-links {
   display: flex;
+  align-items: center;
   gap: 2rem;
   list-style: none;
+  margin: 0;
+  padding: 0;
 }
 
 nav a {
